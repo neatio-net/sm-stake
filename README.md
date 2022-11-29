@@ -1,1 +1,1 @@
-# Neatio Staking Interface
+# Safe-mode Staking Interface 
