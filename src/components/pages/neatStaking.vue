@@ -20,6 +20,7 @@
               >
 
               <div class="buttns">
+                <button class="rippleClaims" @click="neatStake0">STAKE</button>
                   <button class="rippleClaims" @click="claimRwd0">claim</button>
                   <button class="rippleClaims" @click="unStake0">unstake</button>
                 </div>
@@ -42,6 +43,7 @@
                 >{{ (+v44power).toLocaleString() }}</span
               >
               <div class="buttns">
+                <button class="rippleClaims" @click="neatStake2">STAKE</button>
                   <button class="rippleClaims" @click="claimRwd2">claim</button>
                   <button class="rippleClaims" @click="unStake2">unstake</button>
                 </div>
@@ -63,6 +65,7 @@
                 >{{ (+v33power).toLocaleString() }}</span
               >
               <div class="buttns">
+                <button class="rippleClaims" @click="neatStake1">STAKE</button>
                   <button class="rippleClaims" @click="claimRwd1">claim</button>
                   <button class="rippleClaims" @click="unStake1">unstake</button>
                 </div>
@@ -87,6 +90,7 @@
                 >{{ (+v55power).toLocaleString() }}</span
               >
               <div class="buttns">
+                <button class="rippleClaims" @click="neatStake3">STAKE</button>
                   <button class="rippleClaims" @click="claimRwd3">claim</button>
                   <button class="rippleClaims" @click="unStake3">unstake</button>
                 </div>
@@ -110,7 +114,7 @@
                 >{{ (+v66power).toLocaleString() }}</span
               >
               <div class="buttns">
-                 
+                <button class="rippleClaims" @click="neatStake4">STAKE</button>
                   <button class="rippleClaims" @click="claimRwd4">claim</button>
                   <button class="rippleClaims" @click="unStake4">unstake</button>
                 </div>

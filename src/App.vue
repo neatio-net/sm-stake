@@ -135,6 +135,7 @@ display:inline-table;
 .dashboard {
    width: 100%;
   margin: 0 auto;
+  font-family: Pirulen, Helvetica;
   }
 .el-message-box {
   width: 268px;
