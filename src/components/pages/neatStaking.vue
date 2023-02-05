@@ -66,8 +66,8 @@
               >
               <div class="buttns">
                 <button class="rippleClaims" @click="neatStake1">STAKE</button>
-                  <button class="rippleClaims" @click="claimRwd1">claim</button>
-                  <button class="rippleClaims" @click="unStake1">unstake</button>
+                  <button class="rippleClaims" @click="claimRwd1">CLAIM</button>
+                  <button class="rippleClaims" @click="unStake1">UNSTAKE</button>
                 </div>
             </div>
 
@@ -91,8 +91,8 @@
               >
               <div class="buttns">
                 <button class="rippleClaims" @click="neatStake3">STAKE</button>
-                  <button class="rippleClaims" @click="claimRwd3">claim</button>
-                  <button class="rippleClaims" @click="unStake3">unstake</button>
+                  <button class="rippleClaims" @click="claimRwd3">STAKE</button>
+                  <button class="rippleClaims" @click="unStake3">UNSTAKE</button>
                 </div>
             </div>
 
