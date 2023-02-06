@@ -654,10 +654,6 @@ export default {
       this.selectedPool = "ROMANIA POOL";
     },
 
-    select3() {
-      document.getElementById("pool3").click();
-      this.selectedPool = "BIG BOW POOL";
-    },
 
     select4() {
       document.getElementById("pool4").click();
