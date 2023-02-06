@@ -491,14 +491,6 @@ export default {
           }
           if (
             this.delegatedTo.hasOwnProperty(
-              "0xaa38dfb4c9dd61e653bc865ff429f05b2db44977"
-            )
-          ) {
-            this.stakedTo = "BIG BOW POOL";
-          }
-
-          if (
-            this.delegatedTo.hasOwnProperty(
               "0xe98ef881833ff63bca2ea3e92636e7cb7c19d283"
             )
           ) {
